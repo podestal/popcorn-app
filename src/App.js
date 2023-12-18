@@ -14,6 +14,7 @@ function App() {
   //   fetch(`https://www.omdbapi.com/?apikey=${KEY}&s=${query}`)
   //   .then(response => response.json())
   //   .then(data => {
+  //     console.log(data)
   //     setMovies(data.Search)
   //     setIsLoading(false)
   //   })
